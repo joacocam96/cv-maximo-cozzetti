@@ -166,7 +166,7 @@ html{
 .resumen .contenido-seccion{
     max-width: 1000px;
     margin: auto;
-    padding: 0 10px;
+    padding: 20px 10px;
 }
 .resumen .contenido-seccion h3{
     text-transform: uppercase;
@@ -216,7 +216,7 @@ html{
 /* SECCION CONTACTO */
 .contacto{
     background-color: #202020;
-    padding: 140px 0 100px 0;
+    padding: 75px 0 100px 0;
     color: #2f67a7;
     text-align: center;
 }
